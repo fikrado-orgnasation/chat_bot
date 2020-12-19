@@ -1,0 +1,42 @@
+{"intents": [
+{"tag": "greetings",
+"patterns": ["hell", "hey", "hi", "good day"], 
+"response": ["hellow!", "what can i do for you"],
+},
+
+{"tag": "goodbye",
+"patterns": ["cya", "see you later", "have a good day"],
+"response": ["sade to see you go", "bye"]
+},
+
+
+{"tag": "age",
+"patterns": ["how old", "how old is yahye", "how old are you"],
+"response": ["my owner yahye is 21 years old", "21 years"]
+},
+
+
+
+{"tag": "name",
+    "patterns": ["whats your name","what should i call you"],
+    "response": ["you can call me fikrado", "i'm fikrado the yahye's robot"]
+},
+
+
+{"tag": "shop",
+    "patterns": ["i like to buy some thing", "what are your product"],
+    "response": ["we have savarel python cours ", ]
+},
+
+{"tag": "hours",
+    "patterns": ["when are you guys open", "hours are you working"],
+    "response": ["24/7"]
+},
+
+{"tag": "stocks",
+    "patterns": ["whats my level of edicution "],
+    "response": ["noob", "scrip kitty"]
+},
+
+
+]}
